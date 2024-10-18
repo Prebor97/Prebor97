@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prebor97
 - 👀 I’m interested in Football and Jazz 
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on with you
 - 📫 How to reach me via gmail(prebstamar@gmail.com)
 
 <!---
